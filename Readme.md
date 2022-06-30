@@ -38,11 +38,11 @@ npm install
 3. Rodar
 ```bash
 npm run start
-
+```
 4. Acesso no seu navegador
 ```bash
 https://localhost:3000
+```
 
-```bash
 ## License
 Labenu "https://www.labenu.com.br/"
