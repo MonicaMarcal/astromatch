@@ -1,4 +1,8 @@
-# Astromatch
+
+<h1 align="center">
+  <center>Astromatch</center>
+</h1>
+
 ### Caracteristicas do projeto: 
 
 #### Tela Inicial
@@ -13,13 +17,10 @@
 #### Possibiblidade de resetar Matches
 - Opção de limpar as informações dos matches.
 
-## Tecnologias
-🔗 CSS - "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
-Linguagem de estilização de elementos, escritos em uma linguagem de marcação.
-🔗 HTML - "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
-Linguagem de Marcação de Hipertexto utilizada na construção de páginas na Web.
- 🔗 React - "https://pt-br.reactjs.org/".
- Uma lib para construir interfaces do usuário com componentes reutilizáveis.
+## Tecnologias utilizadas:
+- CSS 
+- HTML 
+- ReactJS
 
 
 ![Captura de tela de 2021-06-15 18-15-00](https://user-images.githubusercontent.com/63027699/122691902-805bc000-d208-11eb-98a4-a7acf4a99663.png)
