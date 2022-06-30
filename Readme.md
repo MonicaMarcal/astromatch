@@ -24,13 +24,12 @@
 
 
 ![Captura de tela de 2021-06-15 18-15-00](https://user-images.githubusercontent.com/63027699/122691902-805bc000-d208-11eb-98a4-a7acf4a99663.png)
-![Captura de tela de 2021-06-15 18-15-24](https://user-images.githubusercontent.com/63027699/122691910-881b6480-d208-11eb-97bc-817b36b6c14e.png)
 
 
 ## Como rodar
 1. Clonar o projeto: 
 ```bash
-git clone 
+git clone git clone https://github.com/MonicaMarcal/astromatch.git 
 ```
 2. Instalar as dependências: 
 ```bash
@@ -44,6 +43,6 @@ npm run start
 ```bash
 https://localhost:3000
 
-
+```bash
 ## License
 Labenu "https://www.labenu.com.br/"
