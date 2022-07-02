@@ -29,7 +29,7 @@
 ## Como rodar
 1. Clonar o projeto: 
 ```bash
-git clone git clone https://github.com/MonicaMarcal/astromatch.git 
+git clone https://github.com/MonicaMarcal/astromatch.git 
 ```
 2. Instalar as dependências: 
 ```bash
